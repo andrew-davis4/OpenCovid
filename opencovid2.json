@@ -1,0 +1,73 @@
+{
+    "prov": [{
+        "pop": 4371316.0,
+        "province": "Alberta",
+        "province_full": "Alberta",
+        "province_short": "AB"
+    }, {
+        "pop": 5071336.0,
+        "province": "BC",
+        "province_full": "British Columbia",
+        "province_short": "BC"
+    }, {
+        "pop": 1369465.0,
+        "province": "Manitoba",
+        "province_full": "Manitoba",
+        "province_short": "MB"
+    }, {
+        "pop": 776827.0,
+        "province": "New Brunswick",
+        "province_full": "New Brunswick",
+        "province_short": "NB"
+    }, {
+        "pop": 521542.0,
+        "province": "NL",
+        "province_full": "Newfoundland and Labrador",
+        "province_short": "NL"
+    }, {
+        "pop": 44826.0,
+        "province": "NWT",
+        "province_full": "Northwest Territories",
+        "province_short": "NT"
+    }, {
+        "pop": 971395.0,
+        "province": "Nova Scotia",
+        "province_full": "Nova Scotia",
+        "province_short": "NS"
+    }, {
+        "pop": 38780.0,
+        "province": "Nunavut",
+        "province_full": "Nunavut",
+        "province_short": "NU"
+    }, {
+        "pop": 14566547.0,
+        "province": "Ontario",
+        "province_full": "Ontario",
+        "province_short": "ON"
+    }, {
+        "pop": 156947.0,
+        "province": "PEI",
+        "province_full": "Prince Edward Island",
+        "province_short": "PE"
+    }, {
+        "pop": 8484965.0,
+        "province": "Quebec",
+        "province_full": "Quebec",
+        "province_short": "QC"
+    }, {
+        "pop": 1174462.0,
+        "province": "Saskatchewan",
+        "province_full": "Saskatchewan",
+        "province_short": "SK"
+    }, {
+        "pop": 40854.0,
+        "province": "Yukon",
+        "province_full": "Yukon",
+        "province_short": "YT"
+    }, {
+        "pop": "NULL",
+        "province": "Repatriated",
+        "province_full": "Repatriated",
+        "province_short": "RP"
+    }]
+}
