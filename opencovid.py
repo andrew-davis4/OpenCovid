@@ -48,4 +48,3 @@ print("Populations of each province in Canada:\n")
 for province in opencovid2['prov']:
     if province['pop'] != 'NULL':
         print("{} : {:,.0f}".format(province['province_short'], province['pop']))
-    
