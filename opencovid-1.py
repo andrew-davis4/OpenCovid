@@ -25,13 +25,13 @@ def province():
 
     ##df['date_active'] = pd.to_datetime(df['date_active'], format='%d-%m-%Y')
 
-    ax = df.query('province == "Alberta"').plot(
+    ax = df.query('province == "Ontario"').plot(
         x='date_active',
         y='active_cases',
         rot=20,
         legend=False
     )
-    ax.set_title('Active Covid Cases Over Time : Alberta', fontsize=20)
+    ax.set_title('Active Covid Cases Over Time : Ontario', fontsize=20)
     ax.set_xlabel('Date', fontsize=16)
     ax.set_ylabel('Active Cases (Thousands)', fontsize=16)
     ax.xaxis.set_tick_params(labelsize=10)
